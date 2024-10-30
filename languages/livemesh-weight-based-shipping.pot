@@ -1,0 +1,1112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Livemesh WooCommerce Shipping\n"
+"POT-Creation-Date: 2022-03-30 09:40+0530\n"
+"PO-Revision-Date: 2015-10-26 13:24-0000\n"
+"Last-Translator: LiveMesh\n"
+"Language-Team: LiveMesh\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e;_nx_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-lwbs-admin.php:96
+#: includes/admin/class-lwbs-admin.php:97
+#: includes/class-lwbs-shipping-method.php:21
+msgid "Livemesh Weight Based Shipping"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:99
+msgid "Where do I configure my Livemesh Weight Based Shipping rates?"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:100
+msgid ""
+"Livemesh Weight Based Shipping rates can be setup within the "
+"shipping zones"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:103
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:104
+msgid "Online documentation"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:105
+msgid "Contact support"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:110
+msgid "More links"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:111
+msgid "Purchase/renew license"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:112
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:113
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-lwbs-admin.php:114
+msgid "More plugins by the Author"
+msgstr ""
+
+#: includes/admin/views/html-condition-group.php:7
+msgid "Or"
+msgstr ""
+
+#: includes/admin/views/html-condition-group.php:12
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/views/html-condition-group.php:13
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/views/html-condition-group.php:15
+msgid "Match all of the following rules to apply the shipping rate:"
+msgstr ""
+
+#: includes/admin/views/html-condition-group.php:41
+msgid "Add condition"
+msgstr ""
+
+#: includes/admin/views/shipping-conditions.php:10
+msgid "Match one of the condition groups to allow this shipping rate:"
+msgstr ""
+
+#: includes/admin/views/shipping-conditions.php:30
+msgid "Add 'Or' group"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:15
+#: includes/class-lwbs-shipping-method.php:57
+msgid "Shipping title"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:23
+msgid "E.g. Expedited shipping"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:28
+msgid "Tax status"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:30
+msgid "Taxable"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:31
+msgid "Not taxable"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:36
+msgid "Minimum cost"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:47
+msgid ""
+"Set a minimum rate to be set if the calculated rate is lower than "
+"the minimum set here.<br/>Leave zero to not set a minimum."
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:52
+msgid "Maximum cost"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:63
+msgid ""
+"Set a maximum rate to be set if the calculated rate is higher than "
+"the maximum set here.<br/>Leave zero to not set a maximum."
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:67
+msgid "Table Rates"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:107
+msgid "Awesome Premium Features with top-notch support!"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:108
+msgid ""
+"Set weight based rates specific to Shipping Class, Category or a "
+"Product!"
+msgstr ""
+
+#: includes/admin/views/shipping-settings.php:109
+msgid "Upgrade to the Premium Version!"
+msgstr ""
+
+#: includes/class-lwbs-shipping-method.php:22
+msgid "Flexible and conditional shipping rate"
+msgstr ""
+
+#: includes/class-lwbs-shipping-method.php:55
+msgid "Title"
+msgstr ""
+
+#: includes/class-lwbs-shipping-method.php:155
+msgid "Conditions"
+msgstr ""
+
+#: includes/class-lwbs-shipping-method.php:164
+msgid "Settings"
+msgstr ""
+
+#: includes/core-functions.php:12
+#: includes/method-conditions/conditions/lwc-contains-category-condition.php:11
+#: includes/method-conditions/conditions/lwc-contains-product-condition.php:11
+#: includes/method-conditions/conditions/lwc-contains-shipping-class-condition.php:11
+#: includes/method-conditions/conditions/lwc-coupon-condition.php:11
+#: includes/method-conditions/conditions/lwc-page-condition.php:70
+#: includes/method-conditions/conditions/lwc-payment-gateway-condition.php:11
+#: includes/method-conditions/conditions/lwc-quantity-condition.php:11
+#: includes/method-conditions/conditions/lwc-shipping-method-condition.php:11
+#: includes/method-conditions/conditions/lwc-subtotal-condition.php:11
+#: includes/method-conditions/conditions/lwc-subtotal-ex-tax-condition.php:11
+#: includes/method-conditions/conditions/lwc-tax-condition.php:11
+#: includes/method-conditions/conditions/lwc-volume-condition.php:11
+#: includes/method-conditions/conditions/lwc-weight-condition.php:11
+msgid "Cart"
+msgstr ""
+
+#: includes/core-functions.php:13
+#: includes/method-conditions/conditions/lwc-subtotal-condition.php:9
+msgid "Subtotal"
+msgstr ""
+
+#: includes/core-functions.php:14
+#: includes/method-conditions/conditions/lwc-subtotal-ex-tax-condition.php:9
+msgid "Subtotal ex. taxes"
+msgstr ""
+
+#: includes/core-functions.php:15
+#: includes/method-conditions/conditions/lwc-tax-condition.php:9
+msgid "Tax"
+msgstr ""
+
+#: includes/core-functions.php:16
+#: includes/method-conditions/conditions/lwc-quantity-condition.php:9
+msgid "Quantity"
+msgstr ""
+
+#: includes/core-functions.php:17
+#: includes/method-conditions/conditions/lwc-contains-product-condition.php:9
+msgid "Contains product"
+msgstr ""
+
+#: includes/core-functions.php:18
+#: includes/method-conditions/conditions/lwc-coupon-condition.php:9
+msgid "Coupon"
+msgstr ""
+
+#: includes/core-functions.php:19
+#: includes/method-conditions/conditions/lwc-weight-condition.php:9
+msgid "Weight"
+msgstr ""
+
+#: includes/core-functions.php:20
+#: includes/method-conditions/conditions/lwc-contains-shipping-class-condition.php:9
+msgid "Contains shipping class"
+msgstr ""
+
+#: includes/core-functions.php:22
+msgid "User Details"
+msgstr ""
+
+#: includes/core-functions.php:23
+#: includes/method-conditions/conditions/lwc-zipcode-condition.php:9
+msgid "Zipcode"
+msgstr ""
+
+#: includes/core-functions.php:24
+#: includes/method-conditions/conditions/lwc-city-condition.php:9
+msgid "City"
+msgstr ""
+
+#: includes/core-functions.php:25
+#: includes/method-conditions/conditions/lwc-state-condition.php:9
+msgid "State"
+msgstr ""
+
+#: includes/core-functions.php:26
+#: includes/method-conditions/conditions/lwc-country-condition.php:9
+msgid "Country"
+msgstr ""
+
+#: includes/core-functions.php:27
+msgid "User role"
+msgstr ""
+
+#: includes/core-functions.php:29
+#: includes/method-conditions/conditions/lwc-category-condition.php:11
+#: includes/method-conditions/conditions/lwc-height-condition.php:11
+#: includes/method-conditions/conditions/lwc-length-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-age-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-category-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-condition.php:9
+#: includes/method-conditions/conditions/lwc-product-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-height-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-length-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-price-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-sale-price-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-sales-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-shipping-class-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-stock-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-tag-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-type-condition.php:11
+#: includes/method-conditions/conditions/lwc-product-width-condition.php:11
+#: includes/method-conditions/conditions/lwc-stock-condition.php:11
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:11
+#: includes/method-conditions/conditions/lwc-width-condition.php:11
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:35
+msgid "Product"
+msgstr ""
+
+#: includes/core-functions.php:30
+#: includes/method-conditions/conditions/lwc-width-condition.php:9
+msgid "Width"
+msgstr ""
+
+#: includes/core-functions.php:31
+#: includes/method-conditions/conditions/lwc-height-condition.php:9
+msgid "Height"
+msgstr ""
+
+#: includes/core-functions.php:32
+#: includes/method-conditions/conditions/lwc-length-condition.php:9
+msgid "Length"
+msgstr ""
+
+#: includes/core-functions.php:33
+#: includes/method-conditions/conditions/lwc-stock-condition.php:9
+msgid "Stock"
+msgstr ""
+
+#: includes/core-functions.php:34
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:9
+msgid "Stock status"
+msgstr ""
+
+#: includes/core-functions.php:35
+#: includes/method-conditions/conditions/lwc-category-condition.php:9
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:35
+msgid "Category"
+msgstr ""
+
+#: includes/method-conditions/admin-functions.php:111
+msgid "There are no options available"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-category-condition.php:10
+msgid "category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-category-condition.php:12
+msgid "All products in cart must match the given category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-city-condition.php:10
+msgid "city"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-city-condition.php:11
+#: includes/method-conditions/conditions/lwc-country-condition.php:11
+#: includes/method-conditions/conditions/lwc-role-condition.php:11
+#: includes/method-conditions/conditions/lwc-state-condition.php:11
+#: includes/method-conditions/conditions/lwc-zipcode-condition.php:11
+msgid "User"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-city-condition.php:12
+msgid "Compare against customer city. Comma separated list allowed"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-condition.php:40
+#: includes/method-conditions/functions.php:278
+msgid "Equal to"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-condition.php:41
+#: includes/method-conditions/functions.php:279
+msgid "Not equal to"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-condition.php:42
+#: includes/method-conditions/functions.php:280
+msgid "Greater or equal to"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-condition.php:43
+#: includes/method-conditions/functions.php:281
+msgid "Less or equal to "
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-category-condition.php:9
+msgid "Contains Category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-category-condition.php:10
+msgid "contains_category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-category-condition.php:12
+msgid ""
+"Cart must contain at least one product with the selected category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-product-condition.php:10
+msgid "contains_product"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-product-condition.php:12
+msgid "Check if a product is or is not present in the cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-product-condition.php:61
+#: includes/method-conditions/conditions/lwc-product-condition.php:43
+msgid "Search for a product"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-shipping-class-condition.php:10
+msgid "contains_shipping_class"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-shipping-class-condition.php:12
+msgid "Check if a shipping class is or is not present in the cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-contains-shipping-class-condition.php:56
+#: includes/method-conditions/conditions/lwc-product-shipping-class-condition.php:42
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:116
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:161
+msgid "No shipping class"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-country-condition.php:10
+msgid "country"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-country-condition.php:12
+msgid "Compare against the customer country"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-country-condition.php:76
+msgid "Continents"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-country-condition.php:77
+msgid "Countries"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-coupon-condition.php:10
+msgid "coupon"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-coupon-condition.php:12
+#, php-format
+msgid ""
+"Matched against the applied coupon codes or coupon amounts (use "
+"'%' or '$' for the respective amounts"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-date-condition.php:9
+msgid "Date"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-date-condition.php:10
+msgid "date"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-date-condition.php:11
+#: includes/method-conditions/conditions/lwc-day-condition.php:11
+#: includes/method-conditions/conditions/lwc-page-condition.php:11
+#: includes/method-conditions/conditions/lwc-time-condition.php:11
+msgid "General"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-date-condition.php:12
+#, php-format
+msgid "Compares given date to the current date. Current date: %s"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-day-condition.php:9
+msgid "Day"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-day-condition.php:10
+msgid "day"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-day-condition.php:12
+#, php-format
+msgid ""
+"Compare to day. You can use ranges with greater/less operators. "
+"Current day: %s"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-default-condition.php:15
+msgid "Default"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-default-condition.php:16
+msgid "default"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-default-condition.php:17
+msgid "Default  Condition"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-height-condition.php:10
+msgid "height"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-height-condition.php:12
+msgid "Compared to the highest product in cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-length-condition.php:10
+msgid "length"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-length-condition.php:12
+msgid "Compared to the lengthiest product in cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:9
+msgid "Page"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:10
+msgid "page"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:12
+msgid "Match the given page to the viewing page"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:69
+msgid "Shop page"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:71
+msgid "Checkout"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:72
+msgid "Terms & conditions"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-page-condition.php:73
+msgid "My account"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-payment-gateway-condition.php:9
+msgid "Payment Gateway"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-payment-gateway-condition.php:10
+msgid "payment_gateway"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-payment-gateway-condition.php:12
+msgid "Payment gateway can only be checked in the checkout"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-age-condition.php:9
+msgid "Product age"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-age-condition.php:10
+msgid "product_age"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-age-condition.php:12
+msgid "Compare against the product age"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-age-condition.php:70
+msgid "Product age in days or date"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-category-condition.php:9
+msgid "Product Category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-category-condition.php:10
+msgid "product_category"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-category-condition.php:12
+msgid "Compare against the product categories"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-condition.php:10
+#: includes/method-conditions/conditions/lwc-product-type-condition.php:10
+msgid "product"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-condition.php:12
+msgid "Compare against the current product"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-height-condition.php:9
+msgid "Product Height"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-height-condition.php:10
+msgid "product_height"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-height-condition.php:12
+msgid "Compare against the product height"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-length-condition.php:9
+msgid "Product Length"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-length-condition.php:10
+msgid "product_length"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-length-condition.php:12
+msgid "Compare against the product length"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:9
+msgid "Product on sale"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:10
+msgid "product_on_sale"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:12
+msgid "Compare if the product in on sale or not"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:43
+msgid "Yes"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-on-sale-condition.php:44
+msgid "No"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-price-condition.php:9
+msgid "Product Price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-price-condition.php:10
+msgid "product_price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-price-condition.php:12
+msgid "Compare against the product price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sale-price-condition.php:9
+msgid "Product Sale_Price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sale-price-condition.php:10
+msgid "product_sale_price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sale-price-condition.php:12
+msgid "Compare against the product sale price"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sales-condition.php:9
+msgid "Product sales"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sales-condition.php:10
+msgid "product_sales"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-sales-condition.php:12
+msgid "Compare against the total product sales"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-shipping-class-condition.php:9
+msgid "Product Shipping Class"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-shipping-class-condition.php:10
+msgid "product_shipping_class"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-shipping-class-condition.php:12
+msgid "Compare against the product shipping class"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-condition.php:9
+msgid "Product Stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-condition.php:10
+msgid "product_stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-condition.php:12
+msgid "Compare against the product stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:9
+msgid "Product Stock Status"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:10
+msgid "product_stock_status"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:12
+msgid "Compare against the product stock status"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:50
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:67
+msgid "In stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:51
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:68
+msgid "Out of stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-stock-status-condition.php:52
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:69
+msgid "On backorder"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-tag-condition.php:9
+msgid "Product tag"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-tag-condition.php:10
+msgid "product_tag"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-tag-condition.php:12
+msgid "Compare against the product tags"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-type-condition.php:9
+msgid "Product type"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-type-condition.php:12
+msgid "Compare against the current product type"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-width-condition.php:9
+msgid "Product Width"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-width-condition.php:10
+msgid "product_width"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-product-width-condition.php:12
+msgid "Compare against the product width"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-quantity-condition.php:10
+msgid "quantity"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-quantity-condition.php:12
+msgid "Compared against the quantity of items in the cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-role-condition.php:9
+msgid "Role"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-role-condition.php:10
+msgid "role"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-role-condition.php:12
+msgid "Compare against the user role"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-role-condition.php:57
+msgid "Guest user"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-shipping-method-condition.php:9
+msgid "Shipping method"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-shipping-method-condition.php:10
+msgid "shipping_method"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-shipping-method-condition.php:12
+msgid "Match against the chosen shipping method"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-state-condition.php:10
+msgid "state"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-state-condition.php:12
+msgid ""
+"Compare against the customer state. Note: only installed states "
+"will show up"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-stock-condition.php:10
+msgid "stock"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-stock-condition.php:12
+msgid "Compared against the product with the lowest stock amount."
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:10
+msgid "stock_status"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-stock-status-condition.php:12
+msgid "All products in cart must match stock status"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-subtotal-condition.php:10
+msgid "subtotal"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-subtotal-condition.php:12
+msgid "Compared against the order subtotal"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-subtotal-ex-tax-condition.php:10
+msgid "subtotal_ex_tax"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-subtotal-ex-tax-condition.php:12
+msgid "Compared against the order subtotal excluding taxes"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-tax-condition.php:10
+msgid "tax"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-tax-condition.php:12
+msgid "Compared against the tax total amount"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-time-condition.php:9
+msgid "Time"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-time-condition.php:10
+msgid "time"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-time-condition.php:12
+#, php-format
+msgid ""
+"Compares current server time to user given time. Current time: %s"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-time-condition.php:30
+#, php-format
+msgid "Current time is: %s"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-volume-condition.php:9
+msgid "Volume"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-volume-condition.php:10
+msgid "volume"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-volume-condition.php:12
+msgid "Volume calculated on all the cart contents"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-weight-condition.php:10
+msgid "weight"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-weight-condition.php:12
+msgid "Weight calculated on all the cart contents"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-width-condition.php:10
+msgid "width"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-width-condition.php:12
+msgid "Compared to the widest product in cart"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-zipcode-condition.php:10
+msgid "zipcode"
+msgstr ""
+
+#: includes/method-conditions/conditions/lwc-zipcode-condition.php:12
+msgid ""
+"Compare against customer zipcode. All zipcodes are matched with a "
+"'starts with' matching method."
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:21
+msgid "Rate per weight"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:40
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:43
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:43
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:44
+msgid "Min weight"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:42
+msgid ""
+"Set a minimum for total weight of products per row before the rate "
+"specified is applied.<br/>Leave empty to not set a minimum."
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:48
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:51
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:51
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:52
+msgid "Max weight"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:50
+msgid ""
+"Set a maximum for total weight of products per row before the rate "
+"specified is applied.<br/>Leave empty to not set a maximum."
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:56
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:59
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:59
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:60
+msgid "Basic Cost"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:58
+msgid "Set a basic rate to be applied for shipping items in the cart"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:64
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:67
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:67
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:68
+msgid "Additional Cost"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:66
+msgid ""
+"Specify additional rate to be applied for shipping items in the "
+"cart (optional)"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:72
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:75
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:75
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:76
+msgid "Per"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:74
+msgid ""
+"Provide a value in weight that needs to be multiplied by Additional "
+"Cost set for the products in the cart (optional)"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:80
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:83
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:83
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:84
+msgid "Over"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:82
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:85
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:85
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:86
+msgid ""
+"Specify a threshold value in weight that needs to be met before the "
+"Additional Cost multiplied by Per Value takes effect. (optional)"
+msgstr ""
+
+#: includes/table-rates/class-lwbs-table-rate-per-weight.php:179
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:203
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:208
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:206
+msgid "Add new"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:15
+msgid "Rate per category"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:37
+msgid ""
+"Select a category to which we apply the rates specified when the "
+"min/max weight match."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:45
+msgid ""
+"Set a minimum for total weight of products of chosen category per "
+"row before the rate specified is applied.<br/>Leave empty to not "
+"set a minimum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:53
+msgid ""
+"Set a maximum for total weight of products of chosen category per "
+"row before the rate specified is applied.<br/>Leave empty to not "
+"set a maximum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:61
+msgid ""
+"Set a basic rate to be applied for shipping items of chosen category"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:69
+msgid ""
+"Specify additional rate to be applied for shipping items of chosen "
+"category (optional)"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:77
+msgid ""
+"Provide a value in weight that needs to be multiplied by Additional "
+"Cost set for the products of chosen category (optional)"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:114
+#: includes/table-rates/premium/class-lwbs-table-rate-per-category.php:158
+msgid "Select a category"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:15
+msgid "Rate per product"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:37
+msgid ""
+"Select a product to which we apply the rates specified when the min/"
+"max weight match."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:45
+msgid ""
+"Set a minimum for total weight of instances of chosen product per "
+"row before the rate specified is applied.<br/>Leave empty to not "
+"set a minimum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:53
+msgid ""
+"Set a maximum for total weight of instances of chosen product per "
+"row before the rate specified is applied.<br/>Leave empty to not "
+"set a maximum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:61
+msgid "Set a basic rate to be applied for shipping chosen product"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:69
+msgid ""
+"Specify additional rate to be applied for shipping chosen product "
+"instance (optional)"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:77
+msgid ""
+"Provide a value in weight that needs to be multiplied by Additional "
+"Cost set for the chosen product instance (optional)"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:119
+#: includes/table-rates/premium/class-lwbs-table-rate-per-product.php:167
+msgid "Select a product"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:16
+msgid "Rate per shipping class"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:36
+msgid "Shipping Class"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:38
+msgid ""
+"Select a shipping class to which we apply the rates specified when "
+"the min/max weight match."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:46
+msgid ""
+"Set a minimum for total weight of products of chosen shipping class "
+"per row before the rate specified is applied.<br/>Leave empty to "
+"not set a minimum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:54
+msgid ""
+"Set a maximum for total weight of products of chosen shipping class "
+"per row before the rate specified is applied.<br/>Leave empty to "
+"not set a maximum."
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:62
+msgid ""
+"Set a basic rate to be applied for shipping items of chosen "
+"shipping class"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:70
+msgid ""
+"Specify additional rate to be applied for shipping items of chosen "
+"shipping class (optional)"
+msgstr ""
+
+#: includes/table-rates/premium/class-lwbs-table-rate-per-shipping-class.php:78
+msgid ""
+"Provide a value in weight that needs to be multiplied by Additional "
+"Cost set for the products of chosen shipping class (optional)"
+msgstr ""
+
+#: plugin.php:73 plugin.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: plugin.php:103
+msgid ""
+"WooCommerce is required for Livemesh Weight Based Shipping plugin "
+"to work. Please install or activate WooCommerce plugin"
+msgstr ""
